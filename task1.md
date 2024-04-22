@@ -3,5 +3,3 @@ We create the notepad file and write our code inside.
 We call javac FirstJavaApp.java
 Then we call java FirstJavaApp
 We can see the output in cmd
-Then we write javap FirstJavaApp command in cmd
-
